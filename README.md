@@ -1,4 +1,4 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)]
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://github.com/Hmaske88)
 <h1 align="center">Hi 👋, I'm Hemant Maske</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
 
@@ -8,11 +8,11 @@
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://www.codimaths.com/assets/images/python-2.gif">
-
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **hemant.maske2002@gmail.com**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

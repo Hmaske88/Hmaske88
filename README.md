@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hemant.maske2002@gmail.com**
 
-- ⚡ Fun fact **🎨 Artist by heart, 🎵 music in my soul and 💻 coder by day**
+- ⚡ Fun fact **🎨 Artist by heart, 🎵 music in my soul, and 💻 coder by day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

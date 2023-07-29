@@ -1,6 +1,12 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://github.com/Hmaske88)
 <h1 align="center">Hi 👋, I'm Hemant Maske</h1>
 
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+
+- 📫 How to reach me **hemant.maske2002@gmail.com**
+
+- ⚡ Fun fact **🎨 Artist by heart, 🎵 music in my soul and 💻 coder by day**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hemant-maske-7a9025208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemant-maske-7a9025208" height="30" width="40" /></a>

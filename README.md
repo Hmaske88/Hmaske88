@@ -1,7 +1,7 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://github.com/Hmaske88)
 <h1 align="center">Hi 👋, I'm Hemant Maske</h1>
 
-- 🌱 I’m currently learning **React**
+<!-- - 🌱 I’m currently learning **React**-->
 
 - 📫 How to reach me **hemant.maske2002@gmail.com**
 
